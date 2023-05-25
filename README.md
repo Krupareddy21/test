@@ -1,10 +1,13 @@
 Skill up
+
 This project was developed during a hackathon at RGMCET by BYTS INDIA (BYTS HACKLEAGUE 1.0) within a 24-hour timeframe.
 
 Project Description
+
 The Skill up project is aimed at controlling the process of conducting and managing online tests. It provides user to create a test and conduct the test to the users based. Once provider gives specific timings and questions the user will get notified through the link which will be sent to their mail. The project aims to provide the following functionality:
 
 Create test
+
 After user logged in with his credentials. He can create the test as his requirements either multiple choice questions or descriptive questions and he can assign date and time to his test. 
 
 Features
